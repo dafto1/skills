@@ -3,10 +3,8 @@
 A curated toolbox of reusable skills for AI coding agents.  
 **One skill library. Multiple agents. Better workflows.**
 
-<p align="left">
-  <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-086CFF?style=for-the-badge&logo=zed&logoColor=white" alt="Zed" /></a>
-  <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" /></a>
-  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
+<p align="center">
+  <img src="assets/agents.png" alt="Codex, Zed, and Google Antigravity" width="180" />
 </p>
 
 Practical, reusable instructions to help agents plan, build, debug, and ship.
