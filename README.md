@@ -1,9 +1,15 @@
 # ⚡ Agent Skills
 
 A curated toolbox of reusable skills for AI coding agents.  
-One skill library. Multiple harnesses. Better workflows.
+**One skill library. Multiple agents. Better workflows.**
 
-Built for **Zed**, **Codex**, and **Google Antigravity** — with a focus on practical instructions that help agents plan, build, debug, and ship.
+<p align="left">
+  <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-086CFF?style=for-the-badge&logo=zed&logoColor=white" alt="Zed" /></a>
+  <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" /></a>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
+</p>
+
+Practical, reusable instructions to help agents plan, build, debug, and ship.
 
 ## ✨ What's inside
 
@@ -18,19 +24,17 @@ This repository brings together and references useful work from:
 - **[pstack skills](https://github.com/search?q=pstack+skills&type=repositories)**
 - **[jmo-skills](https://github.com/search?q=jmo-skills&type=repositories)**
 
-Credit and licensing should be preserved for all third-party skills. Check each skill's original source before redistributing or modifying it.
+Credit and licensing should be preserved for third-party skills. Check each original source before redistributing or modifying its work.
 
-## 🚀 Use
-
-Clone the repository:
+## 🚀 Get started
 
 ```bash
 git clone https://github.com/dafto1/skills.git
 ```
 
-For local discovery, place or link individual skill folders into your harness's supported skills directory. Each skill should contain a `SKILL.md` file.
+Use or link individual skill folders from your agent's supported skills directory. Each skill should contain a `SKILL.md`.
 
-> Skill discovery paths vary by harness. Check your agent's documentation for the supported global and project-level locations.
+> Discovery paths vary by agent. Refer to the relevant documentation for global and project-level locations.
 
 ## 🤝 Contribute
 
